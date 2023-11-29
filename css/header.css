@@ -1,0 +1,10 @@
+
+header {
+  position: relative;
+  display: block;
+  max-width: 1920px;
+  height: 100px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
